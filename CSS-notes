@@ -1,0 +1,6 @@
+Cascading style sheets
+can use the website colorhunt to find the codes for different colors for your coding purposes
+when using the link tag it will tell you what relationship it has
+ex.
+<link rel="stylesheet" href="/css/master.css">
+You are able to use the developer tools in your browser to see what the problem is when debugging your code

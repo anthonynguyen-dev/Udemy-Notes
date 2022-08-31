@@ -1,0 +1,60 @@
+Web browsers such as google chrome safari and firefox all interperet your html, css, and other files into a website that should be displayed
+html is the foundation of our website
+html will enable you to display text, forums, or images
+html stands for HyperText Markup Language (mark up being the important words)
+using headings "h1" and so on
+the bigger the number the smaller the text will be 
+to create a space between text you can use <br> which is a line break
+
+ex. <h1> is the starting tag while </h1> is the end tag and everything in between is the content you put into these tags
+ex. <br> is a tag that doesn't need a closing tag which is called a self-closing tag (there are more self-closing tags)
+ex. <hr> self closing tag that creates a horizontal line, to make thicker or thinner you can <hr size=""> this is an html attribute that show how you want your element displayed
+to look at the html and css in a browser you can right click and click "inspect" to see all the code written down
+attributes come after the main html element and is seperated by a single space
+
+index.html is typically the homepage for the code editor you're using
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    
+  </body>
+</html> all this is standard "boiler plate code"
+this is like having a codwe template something you will reuse for different projects
+when using html you will see <!DOCTYPE html> which shows the type of document it
+this tells the browser to render the file as a html5 document
+the head of html holds information about the webpage and tells the browser how to handle the page
+meta elements give extra meta data or associated data to the html document
+the body of the html 
+
+indents will help the organization of your code
+you can use <i></i> to italisize and <b></b> to bold text
+
+img is the html element and the html attribute is src=
+<img src=""> the src can be a link from the internet or an image on your local system
+HyperText are text documents that can be connected together through hyperlinks 
+<a></a> is an anchor tag while an href is an attribute that contains the url or a url fragment
+<a href=""></a>
+ex. of html table format
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+input types can be text submit and etc depending on what function you want
+
+html forms 
+use form tag to define what should go into your form 
+to us this you need label and input tags
+
+a repository is just a folder that will hold your project related files\
+you can change and update the files and keep track of said changes and updates
